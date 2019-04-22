@@ -29,3 +29,23 @@
 .header h3 a:hover {
   color: #00bc8c;
 }
+
+@media (max-width: 438px) {
+  .header {
+    flex-direction: column;
+  }
+
+  .header ul li a {
+    padding: .5rem .8rem;
+  }
+
+  .header h3 {
+    margin: 0 auto;
+  }
+
+  .header ul {
+    padding-left: 5px;
+    margin: 0 auto;
+    margin-bottom: 15px;
+  }
+}
