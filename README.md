@@ -25,4 +25,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.<br>
 
 ## Screenshots
+![Screenshot 1](https://i.imgur.com/qhR1Eky.png)
 
+![Screenshot 2](https://i.imgur.com/bKEdf7V.png)
